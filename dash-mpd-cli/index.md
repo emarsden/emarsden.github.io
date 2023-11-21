@@ -1,4 +1,8 @@
-# dash-mpd-cli
+title: dash-mpd-cli
+description: Documentation for the dash-mpd-cli commandline utility
+site.github.is_project_page: true
+---
+
 
 A commandline application for downloading media content from a DASH MPD file, as used for on-demand
 replay of TV content and video streaming services like YouTube.
